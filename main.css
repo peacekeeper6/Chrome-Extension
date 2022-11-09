@@ -1,0 +1,38 @@
+html body {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/6/68/Solid_black.png);
+    width: 300px;
+    color: white;
+}
+img {
+    padding-top: 5px;
+    width: 50px;
+    height: 50px
+}
+#2023, #2022 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border: 2px white !important;
+    border-color: white !important;
+}
+#date {
+    color: #5bc0de
+}
+h1 {
+    font-size: 32px
+}
+h3 {
+    font-size: 16px
+}
+h4 {
+    font-size: 16px;
+    color: #63e6e6
+}
+h5 {
+    color:#0275d8;
+    font-size: 16px;
+}
+.btn {
+    padding-bottom: 2px;
+    padding-top: 2px;
+    margin-bottom: 2px
+}
