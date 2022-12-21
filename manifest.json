@@ -2,7 +2,7 @@
    "manifest_version": 3,
     "name": "Upcoming Album Releases",
     "description": "Discover and find your favorite upcoming album releases! All information is taken from genius.com; no ownership claimed.",
-    "version": "1.3.3",
+    "version": "1.3.4",
     "icons": {
         "16": "./images/nobg.png",
         "48": "./images/nobg.png",
